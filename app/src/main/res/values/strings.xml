@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent Launcher</string>
+    <string name="check_box">Only Send Title</string>
+    <string name="first_button">Send email</string>
+    <string name="second_button">Launch Activity</string>
+    <string name="third_button">Launch Camera</string>
+
+</resources>
